@@ -88,6 +88,10 @@ body {
   right: 0;
   background-color: blueviolet;
   color: #fff;
+  padding: 25px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 12px;
 }
 .modal:empty {
   display: none;
