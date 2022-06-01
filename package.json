@@ -19,5 +19,8 @@
     "eslint-plugin-import": "^2.26.0",
     "parcel": "^2.6.0",
     "prettier": "2.6.2"
-  }
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
 }
