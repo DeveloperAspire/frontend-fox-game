@@ -7,3 +7,13 @@ This project was for practice while I was learning how to build intentionally us
 Run `yarn dev`
 
 Unfortunately there is no live version.
+
+## How to advanced this?
+* Unit tests.
+* Splitting the Code and Styles into more files.
+* Make it more accessible.
+* Add a State Machine that manages states.
+* Use TypeScript for Type Safety.
+* Replicate using any Frontend Framework.
+* Replicate using a Backend Framework.
+* Using LocalStorage to Store state for a users when they pause e.t.c.
