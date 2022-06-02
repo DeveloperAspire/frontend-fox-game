@@ -22,5 +22,8 @@
   },
   "browserslist": [
     "last 2 Chrome versions"
-  ]
+  ],
+  "dependencies": {
+    "typescript": "^4.7.2"
+  }
 }
