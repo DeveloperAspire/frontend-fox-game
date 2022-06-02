@@ -24,10 +24,8 @@ const gameState = {
   scene: 0,
   tick() {
     this.clock++;
-    console.log("Clock", this.clock);
 
     if (this.clock === this.wakeTime) {
-      console.log(this.wakeTime);
       this.wake();
     } else if (this.clock === this.sleepTime) {
       this.sleep();
